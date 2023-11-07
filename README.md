@@ -1,6 +1,6 @@
 # archiso
 
-Entendido. Para crear una imagen ISO de tu distribución personalizada de Arch Linux que incluya todas las personalizaciones que has mencionado, sigue estos pasos detallados. Ten en cuenta que necesitarás tener privilegios de superusuario (sudo) para ejecutar la mayoría de estos comandos.
+Para crear una imagen ISO de tu distribución personalizada de Arch Linux que incluya todas las personalizaciones que has mencionado, sigue estos pasos detallados. Ten en cuenta que necesitarás tener privilegios de superusuario (sudo) para ejecutar la mayoría de estos comandos.
 
 ### Paso 1: Preparar el entorno de trabajo
 
